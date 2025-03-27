@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(16, 43, 66);
+  font-size: 50px;
+  text-align: center;
+  margin-top: 35px;
+}
+.counter {
+  display: block;
+  color: rgb(0, 128, 0);
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
+.button {
+  display: flex;
+  column-gap: 30px;
+  justify-content: center;
+}
+.button .button1 {
+    background: transparent;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button .button2 {
+    background: transparent;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button .button3 {
+    background: transparent;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
